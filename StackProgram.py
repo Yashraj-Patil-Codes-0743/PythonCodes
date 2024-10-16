@@ -1,0 +1,11 @@
+stack=[]
+stack.append(50)
+stack.append(60)
+stack.append(70)
+stack.append(80)
+stack.append(90)
+print("Intital stack")
+print(stack)
+print("delete the element in stack")
+print(stack.pop())
+print(stack)
